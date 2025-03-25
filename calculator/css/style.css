@@ -1,0 +1,36 @@
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    font-size: 2em;
+    border-radius: 50px;
+    background-color: rgba(226, 41, 41, 0.685);
+    color: white;
+}
+
+.operator {
+    background-color: rgba(18, 179, 18, 0.541);
+}
+
+#display {
+    height: 200px;
+    width: 100%;
+    border: solid;
+    font-size: 5em;
+    text-align: right;
+    border-radius: 20px;
+}
+
+#result {
+    height: 50%;
+    border-bottom: solid;
+}
+
+#calculation {
+    height: 50%;
+}

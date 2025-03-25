@@ -1,0 +1,46 @@
+h1 {
+    color: brown;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+h1 {
+    color: coral;
+}
+
+h2 {
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 25px;
+    margin-bottom: 10px;
+}
+h3 {
+    margin: 10px;
+}
+
+#sydney{
+    color: rgb(51, 255, 0);
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+.graph {
+    background-color: lightgray;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.yellow {
+    color: rgb(92, 90, 90);
+    background-color: yellow;
+    margin: 20px;
+    padding: 20px;
+}
